@@ -9,9 +9,9 @@ import {
   Text,
   ImageBackground,
 } from "react-native";
-import backimg from "../background.jpg";
-import loadingimg from "../loading.gif";
-import unknowimg from "../unknow.jpg";
+import backimg from "../src/img/background.jpg";
+import loadingimg from "../src/img/loading.gif";
+import unknowimg from "../src/img/unknow.jpg";
 
 function CardRnd({ route, navigation }) {
   const { itemId } = route.params;

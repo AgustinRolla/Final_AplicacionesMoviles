@@ -12,8 +12,8 @@ import {
 import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
 //import { DetailsScreen } from "./DetailsScreen";
-import backimg from "../background.jpg";
-import logo from "../logo.png";
+import backimg from "../src/img/background.jpg";
+import logo from "../src/img/logo.png";
 
 function HomeScreen({ navigation }) {
   const [searchText, setSearchText] = React.useState("");
