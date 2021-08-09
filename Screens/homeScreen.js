@@ -91,26 +91,4 @@ const styles = StyleSheet.create({
     height: 200,
     width: 400,
   },
-  // text: {
-  //   color: "black",
-  //   fontStyle: "normal",
-  // },
-  // card: {
-  //   margin: "5px",
-  //   width: "200px",
-  //   display: "flex",
-  //   borderRadius: 18,
-  //   backgroundColor: "black",
-  // },
-  // img: {
-  //   width: 200,
-  //   height: 200,
-  //   borderTopRightRadius: 18,
-  //   borderTopLeftRadius: 18,
-  // },
-  // cardtext: {
-  //   fontStyle: "normal",
-  //   color: "white",
-  //   marginLeft: "5px",
-  // },
 });

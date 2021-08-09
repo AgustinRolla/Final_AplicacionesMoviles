@@ -1,5 +1,11 @@
 # Rick and Morty App
 
+# Tech
+
+- React Native
+- StyleSheet
+- Expo
+
 # Home
 
 ![Screenshot](/src/img/home.png)
