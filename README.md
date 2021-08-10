@@ -6,6 +6,8 @@
 - StyleSheet
 - Expo
 
+- Buildapp: https://expo.dev/@agusrolla/rick-and-morty-app
+
 # Home
 
 ![Screenshot](/src/img/home.png)
