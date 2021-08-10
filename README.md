@@ -5,6 +5,7 @@
 - React Native
 - StyleSheet
 - Expo
+- API: https://rickandmortyapi.com/
 
 - Buildapp: https://expo.dev/@agusrolla/rick-and-morty-app
 
